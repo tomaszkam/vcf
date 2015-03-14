@@ -1,3 +1,3 @@
-name = "Vanilla Converter Fixed"
+name = "Vanilla Converter Fixes"
 
 path = "mod/vcf"

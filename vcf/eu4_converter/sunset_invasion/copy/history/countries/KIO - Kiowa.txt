@@ -8,10 +8,9 @@ capital = 2502
 
 1444.11.11 = {
 	monarch = {
-		name = "Native Council"
-		adm = 3
-		dip = 3
-		mil = 3
-		regent = yes
+		name = "Senegertta"
+		adm = 1
+		dip = 5
+		mil = 1
 	}
 }

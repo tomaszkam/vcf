@@ -1,16 +1,16 @@
 government = despotic_monarchy
 mercantilism = 0.1
-primary_culture = pequot
+primary_culture = illini
 religion = totemism
 technology_group = high_american
-capital = 2010 # Connecticut
+capital = 943 # Miami
 
 
 1444.11.11 = {
 	monarch = {
-		name = "Massasoit"
-		adm = 2
+		name = "Chessagouasse"
+		adm = 4
 		dip = 2
-		mil = 3
+		mil = 1
 	}
 }
