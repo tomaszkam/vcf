@@ -5,7 +5,7 @@
 norse_pagan;shamanism;0;Norse
 norse_pagan_reformed;norse_pagan_reformed;0;Reformed Norse
 tengri_pagan;shamanism;0;Tengri
-tengri_pagan_reformed;tengri_pagan_reformed;1;Reformed Tengri
+tengri_pagan_reformed;tengri_pagan_reformed;0;Reformed Tengri
 baltic_pagan;animism;0;Romuva
 baltic_pagan_reformed;baltic_pagan_reformed;1;Reformed Romuva
 finnish_pagan;animism;0;Suomenusko
@@ -22,9 +22,9 @@ zun_pagan_reformed;zun_pagan_reformed;1;Zunist
 
 # Zoroastrianism
 
-zoroastrian;zoroastrian;1;Zoroastrian
-mazdaki;zoroastrian;1;Zoroastrian
-manichean;zoroastrian;1;Zoroastrian
+zoroastrian;zoroastrian;0;Zoroastrian
+mazdaki;zoroastrian;0;Zoroastrian
+manichean;zoroastrian;0;Zoroastrian
 
 # Christianity
 

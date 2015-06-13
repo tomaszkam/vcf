@@ -41,8 +41,11 @@ visigothic;visigothic;1;Visigothic
 
 armenian;armenian;0;Armenian
 greek;greek;0;Greek
-alan;alan;1;Alan
 georgian;georgian;0;Georgian
+
+# Caucasian
+
+alan;alan;1;Alan
 
 # Celtic
 

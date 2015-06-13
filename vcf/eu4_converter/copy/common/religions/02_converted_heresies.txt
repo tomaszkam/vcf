@@ -469,7 +469,7 @@ muslim = {
 
 zoroastrian_group = {
 	mazdaki = {
-		icon = 27
+		icon = 26
 		color = { 0.5 0.7 0.2 }
 		province = {
 			local_missionary_strength = -0.03
@@ -482,7 +482,7 @@ zoroastrian_group = {
 		heretic = { ZOROASTRIAN MANICHEAN }
 	}
 	manichean = {
-		icon = 27
+		icon = 26
 		color = { 0.5 0.7 0.2 }
 		province = {
 			local_missionary_strength = -0.03
