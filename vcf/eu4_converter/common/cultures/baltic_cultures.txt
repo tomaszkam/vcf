@@ -1,0 +1,5 @@
+baltic = {
+	old_prussian = {
+		dynasty_names = $old_prussian$
+	}
+}
