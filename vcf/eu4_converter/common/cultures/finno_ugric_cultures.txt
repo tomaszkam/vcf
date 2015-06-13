@@ -1,8 +1,4 @@
 finno_ugric = {
-	lappish = {
-		primary = FIN
-		dynasty_names = $lappish$
-	}
 	komi = {
 		primary = FIN
 		dynasty_names = $komi$
