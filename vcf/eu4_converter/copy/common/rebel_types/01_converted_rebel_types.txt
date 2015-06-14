@@ -1012,7 +1012,7 @@ tengri_pagan_reformed_rebels = {
 ######################################################################
 # Zunist Reformed rebels. Disgruntled fanatics.
 ######################################################################
-zoroastrian_rebels = {
+zun_pagan_reformed_rebels = {
 
 	area = nation 					# Sticks to provinces of their nation
 	government = theocracy 			# Desires Theocracy
@@ -1165,7 +1165,7 @@ zoroastrian_rebels = {
 	}
 	
 	# Localisation for their demands
-	demands_description = "zoroastrian_rebels_demand"
+	demands_description = "zun_pagan_reformed_rebels_demand"
 	
 	# Country Scope	
 	demands_enforced_effect = {
