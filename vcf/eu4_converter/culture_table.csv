@@ -41,11 +41,8 @@ visigothic;visigothic;1;Visigothic
 
 armenian;armenian;0;Armenian
 greek;greek;0;Greek
-georgian;georgian;0;Georgian
-
-# Caucasian
-
 alan;alan;1;Alan
+georgian;georgian;0;Georgian
 
 # Celtic
 
@@ -82,6 +79,10 @@ avar;avar;1;Avar
 mongol;mongol;0;Mongol
 kirghiz;kirgiz;0;Kirghiz
 karluk;karluk;1;Karluk
+uyghur;uyghur;0;Uyghur
+khitan;khitan;1;Khitan
+sogdian;sogdian;1;sogdian
+tocharian;tocharian;1;Tocharian
 
 # Arabic
 
