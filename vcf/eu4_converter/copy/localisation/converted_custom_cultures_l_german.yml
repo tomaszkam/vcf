@@ -1,0 +1,6 @@
+l_german:
+ israelite: "Israelit"
+ anglo_saxon: "Angel-Sächsisch" #Otherwise will be named Saxon
+ old_saxon: "Altsächsisch" #Workaround for mutliple Saxon
+ old_prussian: "Altpreußisch" #Otherwise will be named Prussian
+
