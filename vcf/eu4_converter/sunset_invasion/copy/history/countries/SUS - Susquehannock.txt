@@ -9,6 +9,7 @@ capital = 955 # Susquehannock
 1444.11.11 = {
 	monarch = {
 		name = "Auroghteregh"
+		dynasty = "Oscalui"
 		adm = 4
 		dip = 2
 		mil = 1

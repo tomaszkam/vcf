@@ -9,6 +9,7 @@ capital = 920	# Choctaw
 1444.11.11 = {
 	monarch = {
 		name = "Ayaistanaksi"
+		dynasty = "Yoopahooma"
 		adm = 3
 		dip = 1
 		mil = 3

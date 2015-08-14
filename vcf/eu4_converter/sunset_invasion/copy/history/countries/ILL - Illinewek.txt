@@ -9,6 +9,7 @@ capital = 915 # Illinois
 1444.11.11 = {
 	monarch = {
 		name = "Mamentouensa"
+		dynasty = "Moingwena"
 		adm = 2
 		dip = 5
 		mil = 2

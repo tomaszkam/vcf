@@ -9,6 +9,7 @@ capital = 919	# Chickasaw
 1444.11.11 = {
 	monarch = {
 		name = "Okelahshahcubbe"
+		dynasty = "Onthaba-atchosa"
 		adm = 0
 		dip = 3
 		mil = 4

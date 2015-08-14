@@ -9,6 +9,7 @@ capital = 944 # Potawatomi
 1444.11.11 = {
 	monarch = {
 		name = "Kogkakeshik"
+		dynasty = "Achiligouan"
 		adm = 3
 		dip = 1
 		mil = 3

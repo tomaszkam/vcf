@@ -9,6 +9,7 @@ capital = 878 # Navajo
 1444.11.11 = {
 	monarch = {
 		name = "Hastiin Daagi"
+		dynasty = "Dzaaneez Lani" 
 		adm = 3
 		dip = 3
 		mil = 1

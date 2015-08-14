@@ -9,6 +9,7 @@ capital = 910 # Chippewa
 1444.11.11 = {
 	monarch = {
 		name = "Wahhanissatta"
+		dynasty = "Aamanaco"
 		adm = 4
 		dip = 2
 		mil = 3

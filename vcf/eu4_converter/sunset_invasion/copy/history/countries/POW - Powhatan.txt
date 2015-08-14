@@ -9,6 +9,7 @@ capital = 952 # Powhatan
 1444.11.11 = {
 	monarch = {
 		name = "Opitchapan"
+		dynasty = "Quiyoughcohannock"
 		adm = 1
 		dip = 5
 		mil = 3

@@ -9,6 +9,7 @@ capital = 2020	# Bannock
 1444.11.11 = {
 	monarch = {
 		name = "Canoe"
+		dynasty = "Huirivis"
 		adm = 2
 		dip = 3
 		mil = 2

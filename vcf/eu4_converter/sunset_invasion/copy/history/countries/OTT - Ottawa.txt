@@ -9,6 +9,7 @@ capital = 991 # Ottawa
 1444.11.11 = {
 	monarch = {
 		name = "Atowagesek"
+		dynasty = "Mouusagai"
 		adm = 2
 		dip = 3
 		mil = 4

@@ -9,6 +9,7 @@ capital = 1002 # Abitbi
 1444.11.11 = {
 	monarch = {
 		name = "Juleetaulematah"
+		dynasty = "Ochapowace"
 		adm = 1
 		dip = 3
 		mil = 3

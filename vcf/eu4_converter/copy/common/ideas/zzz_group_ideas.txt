@@ -8,6 +8,7 @@ dravidian_ideas = {
 
 anatolian_beyliks_ideas = {
 	trigger = {
+		government = monarchy
 		OR = {
 			dynasty = "Candar"
 			dynasty = "Dulkadir"

@@ -9,6 +9,7 @@ capital = 2015 # Nipigon
 1444.11.11 = {
 	monarch = {
 		name = "Mixmunitou"
+		dynasty = "Nikikouek"
 		adm = 3
 		dip = 2
 		mil = 2

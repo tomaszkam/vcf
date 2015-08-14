@@ -9,6 +9,7 @@ capital = 899 # Osage
 1444.11.11 = {
 	monarch = {
 		name = "Manguepeemani"
+		dynasty = "Picayune"
 		adm = 0
 		dip = 4
 		mil = 5

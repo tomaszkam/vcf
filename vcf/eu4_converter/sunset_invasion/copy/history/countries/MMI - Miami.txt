@@ -9,6 +9,7 @@ capital = 943 # Miami
 1444.11.11 = {
 	monarch = {
 		name = "Chessagouasse"
+		dynasty = "Kaskaskia"
 		adm = 4
 		dip = 2
 		mil = 1

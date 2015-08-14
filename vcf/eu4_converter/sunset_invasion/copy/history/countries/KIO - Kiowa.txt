@@ -9,6 +9,7 @@ capital = 2502
 1444.11.11 = {
 	monarch = {
 		name = "Senegertta"
+		dynasty = "Watlala"
 		adm = 1
 		dip = 5
 		mil = 1

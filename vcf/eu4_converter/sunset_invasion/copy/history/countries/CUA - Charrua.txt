@@ -5,9 +5,11 @@ religion = animism
 technology_group = high_american
 capital = 778
 
+
 1444.11.11 = {
 	monarch = {
 		name = "Vaimaca"
+		dynasty = "Igualdad"
 		adm = 2
 		dip = 2
 		mil = 3
