@@ -357,7 +357,7 @@ christian = {
 
 	nestorian = {
 		color = { 0.8 0.3 0.5 }
-		icon = 14
+		icon = 4
 		country = {
 			stability_cost_modifier = -0.1
 			tolerance_own = 1
@@ -374,7 +374,7 @@ christian = {
 
 	messalian = {
 		color = { 0.6 0.1 0.4 }
-		icon = 14
+		icon = 4
 		country = {
 			stability_cost_modifier = -0.1
 			heir_chance = 0.5
