@@ -206,6 +206,7 @@ d_savoie;SAV;Savoy;Savoy Duchy
 c_savoie;SAV;Savoy;Savoy County
 k_sicily;SIC;Sicily;Sicily Kingdom
 d_sicily;SIC;Sicily;Sicily Duchy
+c_malta;JAI;Malta;Malta County
 c_siena;SIE;Siena;Siena County
 d_toscana;TUS;Tuscany;Tuscany Duchy
 c_lucca;LUC;Lucca;Lucca County
@@ -381,6 +382,9 @@ d_vidharba;BRR;Berar;Berar Duchy
 c_venadu;VND;Venad;Venadu County
 k_karnata;KRK;Carnatic;Karnata Kingdom
 c_madurai;MAD;Madurai;Madurai County
+c_maldives;DGL;Maldives;Maldives County
+k_andhra;YOR;Andhra;Andhra Kingdom
+
 
 # Steppe
 
@@ -417,6 +421,7 @@ d_knights_templar;TEM;KnightsTemplar;Knights Templar Special Case
 ;MAG;Magdeburg;Magdeburg exists in EU4, not CK2
 ;LAU;Lauenburg;Lauenburg exists in EU4, not CK2
 ;STY;Styria;Styria exists in EU4, not CK2
+;LAN;Florence;Florence exists in EU4, not CK2
 ;MOE;Morea;Morea exists in EU4, not CK2
 ;NOG;Nogai;Nogai exists in EU4, not CK2
 ;AST;Astrakhan;Astrakhan exists in EU4, not CK2
