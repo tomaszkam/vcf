@@ -58,10 +58,6 @@ k_scotland;SCO;Scotland;Scotland Kingdom
 k_wales;WLS;Wales;Wales Kingdom
 d_cornwall;CRN;Cornwall;Cornwall Duchy
 c_cornwall;CRN;Cornwall;Cornwall County
-d_lancaster;LAN;Lancaster;Lancaster Duchy
-c_lancaster;LAN;Lancaster;Lancaster County
-d_york;YOR;York;York Duchy
-c_york;YOR;York;York County
 d_northumberland;NOL;Northumberland;Northumberland Duchy
 c_northumberland;NOL;Northumberland;Northumberland County
 d_connacht;CNN;Connacht;Connacht Duchy
