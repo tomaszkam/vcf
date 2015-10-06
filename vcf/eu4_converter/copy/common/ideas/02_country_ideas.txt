@@ -240,7 +240,7 @@ MAM_ideas = {
 	trigger = {
 		OR = {
 			tag = MAM
-			primary_culture = egyptian_arabic
+			primary_culture = al_misr_arabic
 			dynasty = mamluk
 		}
 		religion_group = muslim
