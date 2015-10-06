@@ -260,6 +260,6 @@ TUR_ideas = {
 
 GRA_ideas = {
 	trigger = {
-		culture = andalucian
+		primary_culture = andalucian
 	}
 }
