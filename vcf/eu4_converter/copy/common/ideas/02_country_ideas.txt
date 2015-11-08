@@ -242,7 +242,6 @@ MAM_ideas = {
 			tag = MAM
 			primary_culture = al_misr_arabic
 			AND = {
-				government = monarchy
 				NOT = { dynasty = no }
 				dynasty = "Mamluk"
 			}
@@ -256,7 +255,6 @@ TUR_ideas = {
 		OR = {
 			tag = TUR
 			AND = {
-				government = monarchy
 				NOT = { dynasty = no }
 				dynasty = "Ottoman"
 			}

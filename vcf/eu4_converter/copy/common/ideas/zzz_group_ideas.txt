@@ -10,7 +10,6 @@ dravidian_ideas = {
 
 anatolian_beyliks_ideas = {
 	trigger = {
-		government = monarchy
 		NOT = { dynasty = no }
 		OR = {
 			dynasty = "Candar"
