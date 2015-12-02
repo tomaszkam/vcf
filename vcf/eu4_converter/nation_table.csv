@@ -134,6 +134,7 @@ c_kleve;KLE;Kleves;Kleve County
 d_osterreich;HAB;Austria;Austria Duchy
 c_osterreich;HAB;Austria;Austria County
 c_hamburg;HAM;Hamburg;Hamburg County
+c_lubeck;HSA;Lubeck;Lubeck Country
 e_hre;HLR;HolyRomanEmpire;Holy Roman Empire
 c_lorraine;LOR;Lorraine;Lorraine County
 c_luneburg;LUN;Luneburg;Luneburg County
@@ -397,7 +398,6 @@ c_yarkand;KAS;Yarkand;Yarkand County
 
 # Additional
 
-k_hansa;HSA;Hansa;Hanseatic League
 c_bar;BAR;Bar;Bar County
 d_smolensk;SMO;Smolensk;Smolensk Duchy
 c_smolensk;SMO;Smolensk;Smolensk County
