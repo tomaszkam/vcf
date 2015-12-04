@@ -60,7 +60,7 @@ incan_ideas = {
 		technology_cost = -0.1
 	}
 	official_axe_monies = {
-		global_trade_income_modifier = 0.10
+		trade_efficiency = 0.10
 	}
 	imperial_gold_trading = {
 		merchants = 1
