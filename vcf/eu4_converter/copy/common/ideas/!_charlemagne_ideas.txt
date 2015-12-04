@@ -31,7 +31,7 @@ karling_ideas = {
 	}
 	legacy_of_the_romans = {
 		idea_cost = -0.1
-		build_power_cost = -0.1
+		development_cost = -0.1
 	}
 	carolingian_renaissance = {
 		technology_cost = -0.05
