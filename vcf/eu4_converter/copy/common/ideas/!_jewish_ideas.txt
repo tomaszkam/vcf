@@ -25,7 +25,7 @@ jewish_ideas = {
 	}
 	jewish_trade_tradition = {
 		trade_steering = 0.1
-		global_trade_income_modifier = 0.1
+		trade_efficiency = 0.1
 	}
 	jewish_banking = {
 		interest = -1
