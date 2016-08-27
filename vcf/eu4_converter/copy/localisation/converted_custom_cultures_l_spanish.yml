@@ -1,6 +1,5 @@
 l_spanish:
  israelite: "Israelita"
- anglo_saxon: "Anglosajon" #Otherwise will be named Saxon
  old_saxon: "Antiguo Sajona" #Workaround for mutliple Saxon
  old_prussian: "Antiguo Prusiana" #Otherwise will be named Prussian
 
