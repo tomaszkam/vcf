@@ -7,7 +7,6 @@ karling_ideas = {
 		legitimacy = 1
 	}
 	trigger = {
-		NOT = { dynasty = no }
 		dynasty = "Karling"
 		OR = {
 			religion = catholic
