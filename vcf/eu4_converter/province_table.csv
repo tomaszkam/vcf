@@ -9,18 +9,22 @@ c_austisland;371;371 - Akureyri;Austisland - Akureyri
 # Ireland
 
 d_ulster;372;372 - Ulster;Duchy Ulster - Ulster
+d_ulster;4121;4121 - Ulaidh;Duchy Ulster - Ulaidh
 c_ulster;372;372 - Ulster;County Ulster - Ulster
+c_ulster;4121;4121 - Ulaidh;County Ulster - Ulaidh
 c_oriel;372;372 - Ulster;Oriel - Ulster
 c_tyrone;372;372 - Ulster;Tyrone - Ulster
 c_tyrconnell;372;372 - Ulster;Tyrconnell - Ulster
 
 d_connacht;376;376 - Connaught;Duchy Connacht - Connaught
 c_connacht;376;376 - Connaught;County Connacht - Connaught
+c_connacht;4119;4119 - Sligeach;County Connacht - Sligeach
 c_breifne;376;376 - Connaught;Breifne - Connaught
 
 d_meath;373;373 - Meath;Duchy Meath - Meath
 c_dublin;373;373 - Meath;Dublin - Meath
 c_kildare;373;373 - Meath;Kildare - Meath
+c_kildare;4120;4120 - Cilldara;Kildare - Cilldara
 
 d_leinster;374;374 - Leinster;Duchy Leinster - Leinster
 c_leinster;374;374 - Leinster;County Leinster - Leinster
@@ -28,6 +32,7 @@ c_ossory;374;374 - Leinster;Ossory - Leinster
 
 d_munster;375;375 - Munster;Duchy Munster - Munster
 c_desmond;375;375 - Munster;Desmond - Munster
+c_desmond;4118;4118 - Deasmhumhain;Desmond - Deasmhumhain
 c_thomond;375;375 - Munster;Thomond - Munster
 c_ormond;375;375 - Munster;Ormond - Munster
 
@@ -52,9 +57,10 @@ c_buchan;251;251 - Aberdeen;Buchan - Aberdeen
 
 d_moray;252;252 - Highlands;Duchy Moray - Highlands
 c_moray;252;252 - Highlands;County Moray - Highlands
-c_ross;252;252 - Highlands;Ross - Highlands
-c_caithness;252;252 - Highlands;Caithness - Highlands
 c_argyll;252;252 - Highlands;Argyll - Highlands
+
+c_ross;4110;4110 - Sutherland;Ross - Sutherland
+c_caithness;4110;4110 - Sutherland;Caithness - Sutherland
 
 c_innse_gall;253;253 - Western Isles;Innse Gall - Western Isles
 
@@ -105,8 +111,9 @@ c_dorset;234;234 - Wessex;Dorset - Wessex
 
 d_cornwall;233;233 - Cornwall;Duchy Cornwall - Cornwall
 c_cornwall;233;233 - Cornwall;County Cornwall - Cornwall
-c_devon;233;233 - Cornwall;Devon - Cornwall
-c_somerset;233;233 - Cornwall;Somerset - Cornwall
+
+c_devon;4130;4130 - Somerset;Devon - Somerset
+c_somerset;4130;4130 - Somerset;Somerset - Somerset
 
 c_oxford;237;237 - Oxfordshire;Oxford - Oxfordshire
 c_bedford;237;237 - Oxfordshire;Bedford - Oxfordshire
@@ -197,21 +204,25 @@ c_vasterbotten;11;11-Vasterbotten;Västerbotten - Västerbotten
 c_angermanland;11;11-Vasterbotten;Ångermanland - Västerbotten
 
 c_lappland;18;18-Lappland;Lappland - Lappland
+c_lappland;4114;4114-Jokkmokk;Lappland - Jokkmokk
 
 c_finland;27;27-Finland;Finland - Finland
-c_satakunta;27;27-Finland;Satakunta - Finland
+
+c_satakunta;4123;4123-Birkaland;Satakunta - Birkaland
 
 c_nyland;28;28 - Nyland;Nyland - Nyland
 
 c_tavasts;29;29 -Tavastland;Tavasts - Tavastland
 
-c_savolaks;31;31-Savolaks;Savolaks - Savolax
+c_savolaks;31;31 - Savolaks;Savolaks - Savolax
 
-c_kexholm;30;30-Viborg;Kexholm - Viborg
-c_kexholm;32;32-Keksholm;Kexholm - Kexholm
+c_kexholm;30;30 - Viborg;Kexholm - Viborg
+c_kexholm;32;32 - Keksholm;Kexholm - Kexholm
+c_kexholm;4124;4124 - Karelia;Kexholm - Karelia
 
 c_osterbotten;19;19-Osterbotten;Österbotten - Österbotten
 c_kemi;19;19-Osterbotten;Kemi - Österbotten
+c_kemi;4113;4113-Rovaniemi;Kemi - Rovaniemi
 
 c_kola;1777;1777-Kola;Kola - Kola
 
@@ -272,8 +283,9 @@ c_vexin;167;167 - Caux;Vexin - Caux
 d_poitou;180;180 - Poitou;Duchy Poitou - Poitou
 c_poitiers;180;180 - Poitou;Poitiers - Poitou
 c_lusignan;180;180 - Poitou;Lusignan - Poitou
-c_saintonge;180;180 - Poitou;Saintonge - Poitou
-c_thouars;180;180 - Poitou;Thouars - Poitou
+
+c_saintonge;4111;4111 - Santoigne;Saintonge - Santoigne
+c_thouars;4111;4111 - Santoigne;Thouars - Santoigne
 
 c_bordeaux;174;174 - Gascogne;Bordeaux - Gascogne
 
@@ -282,6 +294,7 @@ c_albret;173;173 - Labourd;Albret - Labourd
 
 c_bearn;176;176 - Bearn;Bearn - Bearn
 
+c_agen;175;175 - Armagnac;Agen - Armagnac
 c_armagnac;175;175 - Armagnac;Armagnac - Armagnac
 
 c_rosello;197;197 - Roussillon;Rosello - Roussillon
@@ -313,8 +326,8 @@ d_auvergne;199;199 - Auvergne;Duchy Auvergne - Auvergne
 c_auvergne;199;199 - Auvergne;County Auvergne - Auvergne
 c_gevaudan;199;199 - Auvergne;Gevaudan - Auvergne
 
-c_perigord;194;194 - Perigord;Perigord - Perigord
-c_agen;194;194 - Perigord;Agen - Perigord
+c_perigord;4112;4112 - Cahors;Perigord - Cahors
+
 c_angouleme;194;194 - Perigord;Angouleme - Perigord
 
 c_limousin;195;195 - Limousin;Limousin - Limousin
@@ -1806,6 +1819,7 @@ c_fejer;135;135 - Sopron;Fejer - Sopron
 
 c_szekezfehervar;1864;1864 - Somogy;Szekezfehervar - Pozsony
 c_pecs;1864;1864 - Somogy;Pecs - Pozsony
+c_pecs;4126;4126 - Bacs;Pecs - Bacs
 
 c_bacs;1954;1954 - Torontal;Bacs - Torontal
 c_csanad;1954;1954 - Torontal;Csanad - Torontal
@@ -1814,6 +1828,7 @@ c_temes;156;156 - Temes;Temes - Temes
 
 c_pest;153;153 - Pest;Pest - Pest
 c_esztergom;153;153 - Pest;Esztergom - Pest
+c_esztergom;4125;4125 - Szolnok;Esztergom - Szolnok
 c_pest;155;155 - Bekes;Pest - Bekes
 
 c_trencin;1772;1772 - Pozsony;Trencin - Pozsony
@@ -1835,11 +1850,13 @@ c_abauj;1953;1953 - Szabolcs;Abauj - Szabolcs
 c_marmaros;1952;1952 - Maramaros;Marmaros - Maramaros
 
 c_szekelyfold;158;158 - Maros;Szekelyfold - Maros
+c_szekelyfold;4127;4127 - Torda;Szekelyfold - Torda
 
 c_bihar;157;157 - Bihar;Bihar - Bihar
 c_heves;157;157 - Bihar;Heves - Bihar
 
 c_feher;1951;1951 - Hunyad;Feher - Hunyad
+c_feher;4128;4128 - Kiralyfold;Feher - Kiralyfold
 
 c_severin;160;160 - Oltenia;Severin - Oltenia
 
@@ -1945,6 +1962,7 @@ c_turov;2962;2962 - Rowne;Turov - Rowne
 
 c_minsk;276;276 - Minsk;Minsk - Minsk
 c_lyubech;276;276 - Minsk;Lyubech - Minsk
+c_lyubech;4115;4115 - Mazyr;Lyubech - Mazyr
 
 c_kiev;280;280 - Kiev;Kiev - Kiev
 c_kiev;280;280 - Kiev;Kiev - Kiev
@@ -2007,6 +2025,7 @@ c_samoyeds;313;313 - Archangelsk;Samoyeds - Arkhangelsk
 c_bjarmia;313;313 - Archangelsk;Bjarmie - Arkhangelsk
 
 c_beloozero;2749;2749 - Tikhvin;Beloozero - Tikhvin
+c_beloozero;4117;4117 - Bezhetsk;Beloozero - Bezhetsk
 
 c_vologda;312;312 - Vologda;Vologda - Beloozero
 
@@ -2014,7 +2033,10 @@ c_chud;314;314 - Ustyug;Chud - Vologda
 
 c_veliky_ustug;1755;1755 - Ustyug;Veliky Ustug - Ustyug
 c_syrj;1755;1755 - Ustyug;Syrj - Ustyug
-c_zyriane;1755;1755 - Ustyug;Zyriane - Ustyug
+
+c_zyriane;4129;4129 - Ust-Vym;Zyriane - Ust-Vym
+
+c_ugra;4122;4122 - Shenkursk;Ugra - Shenkursk
 
 c_kostroma;1753;1753 - Kostroma;Kostroma - Kostroma
 
@@ -2118,6 +2140,7 @@ c_guryev;469;469 - Ryn;Guryev - Ryn
 c_guryev;2367;2367 - Lower Yik;Guryev - Lower Yik
 
 c_bryansk;297;297 - Bryansk;Bryansk - Bryansk
+c_bryansk;4116;4116 - Odayev;Bryansk - Odayev
 
 c_sugrov;2408;2408 - Lipesk;Sugrov - Lipesk
 c_sugrov;299;299 - Voronezh;Sugrov - Voronezh
@@ -2134,7 +2157,7 @@ c_mordva;302;302 - Tambow;Mordva - Tambov
 c_burtasy;303;303 - Saratow;Lower Volga - Saratov
 c_burtasy;2415;2415 - Etkara;Lower Volga - Etkara
 
-c_mountain_cheremisa;304;304 - Pensa;Mountain Cheremisa - Pensa
+c_mountain_cheremisa;304;304 - Pensa;Mountain Cheremisa - Penza
 
 c_chuvash;2423;2423 - Alatyr;Chuvash - Alatyr
 
