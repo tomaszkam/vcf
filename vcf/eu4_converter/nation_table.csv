@@ -112,10 +112,10 @@ d_provence;PRO;Provence;Provence Duchy
 c_provence;PRO;Provence;Provence County
 d_toulouse;TOU;Toulouse;Toulouse Duchy
 c_toulouse;TOU;Toulouse;Toulouse County
-d_bourbon;BOU;Bourbonnais;Bourbonnais Duchy
-c_bourbon;BOU;Bourbonnais;Bourbonnais County
 d_berry;BER;Berry;Berry Duchy
 c_venaissin;AVI;Avignon;Venaissin County
+d_bourbon;BOU;Bourbonnais;Bourbonnais Duchy
+c_bourbon;BOU;Bourbonnais;Bourbonnais County
 
 # HRE
 
@@ -264,8 +264,8 @@ c_perm;PRM;Perm;Perm County
 # Arabia
 
 d_oman;OMA;Oman;Oman Duchy
-c_al_hasa;ALH;Haasa;Haasa County
 c_hijaz;HED;Hedjaz;Hedjaz County
+c_al_hasa;ALH;Haasa;Haasa County
 k_arabia;ARB;Arabia;Arabia Kingdom
 
 # Asia Minor
@@ -366,6 +366,8 @@ k_gujarat;GUJ;Gujarat;Gujarat Kingdom
 k_malwa;MLW;Malwa;Malwa Kingdom
 k_sindh;SND;Sind;Sindh Kingdom
 k_delhi;DLH;Delhi;Delhi Kingdom
+k_gondwana;GDW;Gondwana;Gondwana Kingdom
+d_jangladesh;JAN;Jangladesh;Jangladesh Kingdom
 e_india;HIN;Hindustan;Hindustan Empire
 k_afghanistan;AFG;Afghanistan;Afghanistan Kingdom
 k_baluchistan;BAL;Baluchistan;Baluchistan Kingdom
@@ -377,8 +379,6 @@ c_jaunpur;JNP;Jaunpur;Jaunpur County
 c_venadu;VND;Venad;Venadu County
 c_kasmira;KSH;Kashmir;Kasmira County
 d_vidharba;BRR;Berar;Berar Duchy
-k_gondwana;GDW;Gondwana;Gondwana Kingdom
-d_jangladesh;JAN;Jangladesh;Jangladesh Kingdom
 e_deccan;DEC;Deccan;Deccan Empire
 c_madurai;MAD;Madurai;Madurai County
 d_multan;MUL;Multan;Multan Duchy
